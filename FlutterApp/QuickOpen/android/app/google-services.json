@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "402021650629",
+    "firebase_url": "https://signinquickopen.firebaseio.com",
+    "project_id": "signinquickopen",
+    "storage_bucket": "signinquickopen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402021650629:android:d29ff8ca281667658820ac",
+        "android_client_info": {
+          "package_name": "com.signinquickopen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402021650629-nq9drh0u668emm913j5lo555cmikd2bm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.signinquickopen",
+            "certificate_hash": "58670bfa78d54d2b633195a0a1146d04a9346e82"
+          }
+        },
+        {
+          "client_id": "402021650629-vmj2j24qs54r88mbfb41p1vddeaod3n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrPa2vS2eM89sDw2VGzzNqzP5IIWtHIEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402021650629-vmj2j24qs54r88mbfb41p1vddeaod3n7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
